@@ -1,5 +1,6 @@
 # Starting_Go
 
-## Runnig Go program From Terminal
-
+## Run Go Program From Terminal
+```
 go run filename.go
+```
