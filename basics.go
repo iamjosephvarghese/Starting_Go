@@ -27,5 +27,8 @@ func main(){
 
   var name string = "Joseph"
   fmt.Println(len(name))
+  //finding string length
+
+  
 
 }
