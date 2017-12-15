@@ -18,17 +18,24 @@ func main(){
   //automatically gives spacing
 
 
-  // const pi float64 = 3.14
-  //
-  // var(
-  //   one = 1
-  //   two = 2
-  // )
+  const pi float64 = 3.14
+  //declaring a constant value pi
+  fmt.Println("The value of constant pi is",pi);
+
+
+  var(
+    one = 1
+    two = 2
+  )
+
+  fmt.Println("one is:",one);
+  fmt.Println("two is:",two);
+
 
   var name string = "Joseph"
   fmt.Println(len(name))
   //finding string length
 
-  
+
 
 }
