@@ -20,7 +20,7 @@ func main(){
 
   const pi float64 = 3.14
   //declaring a constant value pi
-  fmt.Println("The value of constant pi is",pi);
+  fmt.Printf("The value of constant pi is %f\n",pi);
 
 
   var(
@@ -28,8 +28,8 @@ func main(){
     two = 2
   )
 
-  fmt.Println("one is:",one);
-  fmt.Println("two is:",two);
+  fmt.Printf("one is: %d\n",one);
+  fmt.Printf("two is: %d\n",two);
 
 
   var name string = "Joseph"
